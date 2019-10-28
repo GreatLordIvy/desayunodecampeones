@@ -1,0 +1,46 @@
+Version 1.1.3
+		Added:
+			- Compatibility with WP 5.2.2
+			- Compatibility with PHP7.3
+
+		Fixed:
+			- Button text for external product
+			- Update plugins to their latest versions
+
+		Changed:
+			- Update demo data
+
+Version 1.1.2.Dev
+	Fixed:
+
+
+Version 1.1.2
+	Fixed:
+	- Scripts libraries updated
+	- Update plugins to their latest versions
+
+Version 1.1.1
+		Added:
+			- Compatibility with WP 5.0.2
+			- Compatibility with PHP7
+			- Contact Form 7
+			- Alert to Demo data installation
+			- Privacy Policy page
+
+		Fixed:
+			- Compatibility with Gutenberg and other PageBuilders
+			- Update plugins to their latest versions
+			- Improve theme styles
+			- Style The Events Calendar
+
+		Changed:
+			- Update default contact forms to make them GDPR-compliant
+			- Update demo data
+
+Version 1.1
+	- Plugins updated
+	- Documentation updated
+	- Dummy data import fixed
+
+Version 1.0
+	- release
